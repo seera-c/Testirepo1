@@ -6,3 +6,5 @@ Jetaan tiedosto ja työskennellään sen parissa yhdessä.
 Tero kävi täällä.
 Dionis kävi tällä
 Tero kävi täällä uudestaan muokkaamassa.
+
+Eikun NYT luodaan konflikti.
